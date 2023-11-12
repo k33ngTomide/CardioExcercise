@@ -1,0 +1,744 @@
+@import url('https://fonts.cdnfonts.com/css/poppins');
+
+body{
+  background-color: black;
+  display: flex;
+  
+  min-height: 100%;
+  max-width: 1343px;
+  margin: auto;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+}
+
+/* Section 1 Start */
+.Section1 {
+  width: 100%;
+  height: 100%;
+  position: relative;
+}
+
+.Group2 {
+  width: 1343px;
+  height: 1170px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.Image1 {
+  width: 780px;
+  height: 1170px;
+  left: 563px;
+  top: 0px;
+  position: relative;
+  
+}
+
+.Group1 {
+  width: 871px;
+  height: 384px;
+  left: 0px;
+  top: 245px;
+  position: absolute;
+}
+
+.Rectangle1 {
+  width: 871px;
+  height: 384px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+.CardioExercise {
+  left: 41px;
+  top: 14px;
+  position: absolute;
+  color: white;
+  font-size: 200px;
+  font-weight: 600;
+  line-height: 170px;
+  word-wrap: break-word;
+}
+
+.Group5 {
+  width: 329px;
+  height: 36px;
+  left: 54px;
+  top: 192px;
+  position: absolute;
+}
+
+.Rectangle2 {
+  width: 329px;
+  height: 36px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  opacity: 0.10;
+  background: white;
+  border-radius: 200px;
+}
+
+.Rectangle3 {
+  width: 46px;
+  height: 26px;
+  left: 5px;
+  top: 5px;
+  position: absolute;
+  background: #25AB75;
+  border-radius: 200px;
+  cursor: pointer;
+}
+
+.New {
+  left: 15px;
+  top: 9px;
+  position: absolute;
+  color: white;
+  font-size: 10px;
+  font-weight: 600;
+  line-height: 18px;
+  letter-spacing: 1.50px;
+  word-wrap: break-word;
+  cursor: pointer;
+  
+}
+
+.HighIntensity {
+  left: 66px;
+  top: 9px;
+  position: absolute;
+  opacity: 0.80;
+  color: white;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0.50px;
+  word-wrap: break-word;
+}
+
+.Group3 {
+  width: 200px;
+  height: 70px;
+  left: 54px;
+  top: 749px;
+  position: absolute;
+}
+
+.Rectangle4 {
+  width: 200px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  border-radius: 10px;
+  opacity: 0.1;
+  flex-shrink: 0;
+  background: white;
+}
+
+.RectangleG4 {
+  width: 200px;
+  height: 70px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  background: #25AB75;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.GetStarted {
+  left: 43px;
+  top: 24px;
+  position: absolute;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 22px;
+  letter-spacing: 1px;
+  word-wrap: break-word;
+  cursor: pointer;
+}
+
+.Group4 {
+  width: 200px;
+  height: 70px;
+  left: 284px;
+  top: 749px;
+  position: absolute;
+}
+
+.Preview {
+  left: 61px; top: 24px; 
+  position: absolute; 
+  color: white; 
+  font-size: 18px; 
+  font-weight: 600;
+  line-height: 22px; 
+  letter-spacing: 1px; 
+  word-wrap: break-word;
+
+}
+
+.LoremIpsum {
+  width: 600px;
+  left: 54px;
+  top: 641px;
+  position: absolute;
+  opacity: 0.50;
+  color: white;
+  font-size: 16px;
+  font-family: 'Poppins';
+  font-weight: 400;
+  line-height: 29px;
+  letter-spacing: 0.50px;
+  word-wrap: break-word;
+}
+
+.Group16 {
+  width: 166px;
+  height: 223px;
+  left: 1088px;
+  top: 314px;
+  position: absolute;
+}
+
+.Rectangle5 {
+  width: 166px;
+  height: 98px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+  opacity: 0.1;
+  background: rgb(255, 255, 255);
+  border-radius: 20px;
+}
+
+.Rectangle6 {
+  width: 166px;
+  height: 105px;
+  left: 0px;
+  top: 118px;
+  position: absolute;
+  opacity: 0.10;
+  background: white;
+  border-radius: 20px;
+}
+
+.Time {
+  left: 30px;
+  top: 65px;
+  position: absolute;
+  color: white;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 13px;
+  letter-spacing: 1px;
+  word-wrap: break-word;
+}
+
+.EstCalories {
+  left: 30px;
+  top: 183px;
+  position: absolute;
+  color: white;
+  font-size: 13px;
+  font-weight: 400;
+  line-height: 20px;
+  letter-spacing: 1px;
+  word-wrap: break-word;
+}
+
+.Nav {
+  width: 1200px;
+  height: 22px;
+  left: 60px;
+  top: 60px;
+  position: absolute;
+}
+
+.Workout,
+.Trainers,
+.Pricing,
+.Login,
+.Exercises {
+  position: absolute;
+  font-family: 'Poppins';
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: white;
+  word-wrap: break-word;
+  cursor: pointer;;
+}
+
+.Workout {
+  left: 0;
+  top: 0;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.Trainers,
+.Pricing,
+.Login,
+.Exercises {
+  font-size: 12px;
+  line-height: 12px;
+  opacity: 0.67;
+}
+
+.Trainers {
+  left: 936px;
+  top: 5px;
+}
+
+.Pricing {
+  left: 1051px;
+  top: 5px;
+}
+
+.Login {
+  left: 1158px;
+  top: 5px;
+  opacity: 0.70;
+}
+
+.Exercises {
+  left: 814px;
+  top: 5px;
+}
+
+.s14{
+  left: 25px; 
+  top: 20px; 
+  position: absolute; 
+  color: #FFE642; 
+  font-size: 40px; 
+  font-weight: 600;
+  line-height: 40px; 
+  letter-spacing: 1px; 
+  word-wrap: break-word;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+#Red165{
+  left: 25px; 
+  top: 138px; 
+  position: absolute; 
+  color: #FB1351; 
+  font-size: 40px; 
+  font-weight: 600;
+  line-height: 40px; 
+  letter-spacing: 1px; 
+  word-wrap: break-word;
+  border: none;
+  background: none;
+  cursor: pointer;
+}
+
+/* Section 2 Start */
+
+.Section2{
+  /* width: 1199px;  */
+  /* height: 767px;  */
+  top: 1030px;
+  flex-shrink: 0;
+  left: -50px;
+  width: 100%;
+  height: 100%;
+  position: relative;
+
+}
+
+.PopularExercises{
+  left: 0px; 
+  top: 0px; 
+  position: absolute; 
+  color: white; 
+  font-size: 35px; 
+  font-weight: 600; 
+  line-height: 45px; 
+  letter-spacing: 0.30px; 
+  word-wrap: break-word;
+  color: #FFF;
+  font-size: 35px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 45px; /* 128.571% */
+  letter-spacing: 0.3px;
+}
+
+.SeeMoreExercises{
+  left: 1050px; 
+  top: 29px; 
+  position: absolute; 
+  opacity: 0.67; 
+  color: white; 
+  font-size: 12px; 
+  font-weight: 400; 
+  line-height: 12px;
+  letter-spacing: 1.50px; 
+  word-wrap: break-word
+}
+
+.Rectangle7,
+.Rectangle8,
+.Rectangle9{
+  width: 373px; 
+  height: 250px; 
+  left: 0px; 
+  top: 0px; 
+  position: absolute;
+  border-radius: 10px;
+  background: linear-gradient(180deg, rgba(0, 0, 0, 0.00) 80%, #000 100%)
+}
+
+.Image4,
+.Image3,
+.Image2{
+  width: 375px; 
+  height: 250.33px; 
+  left: 0px; 
+  top: 0px; 
+  /* position: absolute */
+}
+
+.Treadmill, 
+.Pushup,
+.Yoga,
+.Lifting,
+.Stretching,
+.Running{
+  left: 20px; 
+  top: 222px; 
+  position: absolute; 
+  color: white; 
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 45px; 
+  letter-spacing: 0.30px; 
+  word-wrap: break-word
+}
+
+.Group14{
+  width: 373px; 
+  height: 296px; 
+  left: 826px; 
+  top: 471px; 
+  position: absolute
+}
+
+.Group6{
+  width: 373px; 
+  height: 250px; 
+  left: 0px; 
+  top: 0px; 
+  position: absolute
+}
+.Group9{
+  width: 373px; 
+  height: 296px; 
+  left: 0px; 
+  top: 471px; 
+  position: absolute
+
+}
+
+.Group17{
+  width: 72px; 
+  height: 29px; 
+  left: 301px; 
+  top: 221px; 
+  position: absolute
+}
+
+.Section2 .NewEstCalories{
+  left: 20px; 
+  top: 282px; 
+  position: absolute; 
+  opacity: 0.67; 
+  color: white;
+  font-size: 13px; 
+  font-weight: 400; 
+  line-height: 14px; 
+  letter-spacing: 0.50px; 
+  word-wrap: break-word
+}
+
+.Section2 .f58-24{
+  position: absolute; 
+  color: white; 
+  font-size: 20px; 
+  font-weight: 600; 
+  line-height: 19px; 
+  letter-spacing: 1.37px; 
+  word-wrap: break-word;
+  background-color: black;
+  width: 72px;
+  height: 29px;
+  text-align: center;
+  padding-top: 10px;
+}
+
+.Group9{
+  width: 373px; 
+  height: 296px; 
+  left: 0px; 
+  top: 95px; 
+  position: absolute;
+}
+
+.Group10{
+  width: 373px; 
+  height: 296px; 
+  left: 413px; 
+  top: 95px; 
+  position: absolute;
+}
+
+.Group12{
+  width: 373px; 
+  height: 296px; 
+  left: 0px; 
+  top: 471px; 
+  position: absolute;
+}
+
+.Section2 .Group11{
+  width: 373px; 
+  height: 296px; 
+  left: 826px; 
+  top: 95px; 
+  position: absolute;
+}
+
+.Group13{
+  width: 373px; 
+  height: 296px; 
+  left: 413px; 
+  top: 471px; 
+  position: absolute;
+}
+
+
+
+/* Section 2 End */
+
+/* Section 3 Start */
+
+.Section3{
+  width: 1350.30px; 
+  height: 1439px; 
+  top: 1997px; 
+  position: absolute;
+  
+}
+
+.Section button{
+  width: 200px; 
+  height: 70px; 
+  left: 0px; 
+  top: 0px; 
+  position: absolute; 
+  background:#25AB75; 
+  border-radius: 10px;
+  color: white;
+  cursor: pointer;
+
+}
+
+.Section3 .Group3{
+  width: 200px; 
+  height: 70px; 
+  left: 672.30px; 
+  top: 380px; 
+  position: absolute;
+}
+
+.Rectangle11{
+  width: 999px; 
+  height: 733px; 
+  left: 351.30px; 
+  top: 0px; 
+  position: absolute; 
+  opacity:0.10; 
+  background: white
+}
+
+.LoremIpsum{
+  width: 558px; 
+  left: 672.30px; 
+  top: 130px; 
+  position: absolute; 
+  opacity: 0.70; 
+  color: white; 
+  font-size: 25px; 
+  line-height: 50px; 
+  letter-spacing: 0.50px; 
+  word-wrap: break-word
+}
+
+.BentImage{ 
+  top: 565.11px; 
+  position: absolute; 
+  transform-origin: 0 0;
+  width: 503.517px;
+  height: 114.495px;
+  transform: rotate(-10deg);
+  flex-shrink: 0;
+}
+
+.WorkoutProgram{
+  left: 30.30px; 
+  top: 100px; 
+  position: absolute; 
+  color: white; 
+  font-size: 120px; 
+  font-weight: 600; 
+  line-height: 120px; 
+  word-wrap: break-word;
+  letter-spacing: -2px;
+}
+
+.Group146{
+  width: 558px; 
+  height: 514px; 
+  left: 672.30px; 
+  top: 540px; 
+  position: absolute;
+}
+
+.Image13{
+  width: 558px; 
+  height: 514px; 
+  position: absolute;
+}
+
+.Group147{
+  width: 321px; 
+  height: 321px; 
+  left: 351.30px; 
+  top: 1054px; 
+  position: absolute;
+}
+
+.Image14,
+.Image15{
+  width: 321px; 
+  height: 321px; 
+  left: 0px; 
+  top: 0px; 
+  position: absolute; 
+  cursor: pointer;
+}
+
+.Group142{
+  width: 321px; 
+  height: 321px; 
+  left: 30.30px; 
+  top: 733px; 
+  position: absolute;
+}
+
+.Group143{
+  width: 196px; 
+  height: 44px; 
+  left: 30.30px; 
+  top: 1074px; 
+  position: absolute;
+}
+
+.Group144{
+  width: 157px; 
+  height: 44px; 
+  left: 351.30px; 
+  top: 1395px; 
+  position: absolute;
+}
+
+.Group145{
+  width: 158px; 
+  height: 44px; 
+  left: 692.30px; 
+  top: 1074px; 
+  position: absolute;
+}
+
+.SamanthaWilliam,
+.JonathanWise,
+.KarenSummer {
+  color: #FFF;
+  font-family: 'Poppins';
+  font-size: 19px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 25px; /* 125% */
+  letter-spacing: 0.5px;
+  margin-bottom: -17%;
+}
+
+.Trainer{
+  color: #FFF;
+  font-family: 'Poppins';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px; /* 100% */
+  letter-spacing: 0.5px;
+}
+
+/* Section 3 End */
+
+.work-out-div{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-left: 30px;
+  padding-right: 100px;
+  padding-top: 70px;
+}
+
+.my-section{
+  margin-top: 1500px;
+  margin-bottom: 100px;
+  color: white;
+}
+
+.Line{
+  stroke-width: 0.5px;
+  height: 1px;
+  stroke: #FFF;
+  margin-top: 60px;
+  opacity: 0.5;
+  width: 1100px;
+  padding-left: 150px;
+  margin-left: 15px;
+
+}
+
+.innerWork{
+  letter-spacing: 0.5%;
+  left: 351.30px; 
+  position: absolute;
+  cursor: pointer;
+}
+
+.video-number{
+  opacity: 0.5;
+}
+
+.innerWork h1{
+  margin-bottom: 0%;
+}
+
+.arrow{
+}
+
+.endPage{
+  height: 100px;
+}
